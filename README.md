@@ -1,5 +1,5 @@
 # Windows 95 Remake  
-#### A project where I remade Windows 95 with Flutter Web.
+#### Flutter Windows 95 is a creative endeavor to reimagine the classic Windows 95 operating system using Flutter's powerful cross-platform framework. By leveraging the capabilities of Flutter Web, this project delivers a visually authentic and interactive Windows 95 experience, complete with familiar UI elements.
 
 ---
 
@@ -20,6 +20,9 @@ You can view the website [here](https://asrisapari.com)
 
 ## [ProjectStack](#projectstack) 
 The project was made using Flutter and hosted on Firebase.
+
+Flutter: A cross-platform UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+Firebase Hosting: A web hosting service provided by Firebase, used to deploy and serve the Flutter Windows 95 project.
 
 
 <img src="https://user-images.githubusercontent.com/47912781/206226953-a00dd140-a476-4995-b254-86527b792906.png"  height="150" >
